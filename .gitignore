@@ -1,3 +1,16 @@
+# .vs code output and build files
+**/build/
+**/.vscode/
+
+# ignore models 
+models/
+
+# ignore big videos
+**/*.MOV
+
+# Ignore generated image for output
+output/
+
 # Prerequisites
 *.d
 
